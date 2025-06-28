@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 **Ramrup Satpati**  
 Student at IIT Madras | Tech Generalist  
 💼 Full Stack • AI/ML • DSA • Cybersecurity • UI/UX  
-🔗 [LinkedIn](https://www.linkedin.com/in/ramrup-satpati)
+🔗 (LinkedIn](https://www.linkedin.com/in/ramrup-satpati-683970341/)
